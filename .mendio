@@ -1,3 +1,7 @@
 {
-  "settingsInheritedFrom": "hughcdemocorp-mend/whitesource-config@main"
+  "settingsInheritedFrom": "hughcdemocorp-mend/whitesource-config@main",
+  "scanSettings": {
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://github.com/hughcdemocorp-mend/whitesource-config/blob/main/whitesource-python.config"
+  }
 }
